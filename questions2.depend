@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1350418841 source:c:\users\feifeng\documents\codeblocks\questions2\main.cpp
+	<iostream>
+
+1350514770 source:c:\users\feifeng\documents\codeblocks\question2\main.cpp
+	<iostream>
+	"IntGeter.h"
+	"NumGuesser.h"
+
+1350514833 c:\users\feifeng\documents\codeblocks\question2\intgeter.h
+	"reader.h"
+
+1350516161 c:\users\feifeng\documents\codeblocks\question2\reader.h
+	"math.h"
+
+1350516395 c:\users\feifeng\documents\codeblocks\question2\numguesser.h
+	"reader.h"
+	<map>
+
